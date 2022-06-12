@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Poppins:wght@300&family=Roboto+Slab:wght@500&family=Teko&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    background-color: #333;
+    color: #ddd;
+    font-family: 'Joan', serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.description{
+    width: 300px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
+
+.duration{
+    width: 300px;
+    margin-top: 25px;
+}
+
+.bar{
+    width: 300px;
+    height: 6px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+progress{
+    width: 0;
+    height: 6px;
+    background-color: #333;
+}
+
+.score{
+    width:20px;
+    height: 20px;
+    background-color: #eee;
+    border-radius: 50%;
+    margin-left: -10px;
+}
+
+.time{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.button-play, .button-pause{
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.arrow{
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.controls{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    align-items: center;
+    margin-top: 15px;
+}
