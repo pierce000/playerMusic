@@ -1,4 +1,5 @@
 # playerMusic
+https://player-music-one.vercel.app/
 
 <p>Um player de músicas,o projeto foi baseado nesse video do <img src="https://img.icons8.com/color/25/undefined/youtube-play.png"/>Youtube:https://www.youtube.com/watch?v=rd4Mr08bX20 <br>
 O que parecia uma tarefa fácil e que não foi hahaha,o código teve alguns erros e tive que usar minha lógica e procurar erros,refazer o projeto,mas ainda bem que deu certo!!🤩</p>
